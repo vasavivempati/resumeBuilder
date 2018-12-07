@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: resumebuilder
+---
+testFramework: spek
+sourceLanguage: kotlin
